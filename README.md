@@ -1,2 +1,2 @@
 # todo-app
-Simple To-Do app showcasing a simple microservices architecture with AWS.
+Simple To-Do app showcasing a microservices architecture with AWS.
